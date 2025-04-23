@@ -39,7 +39,8 @@ The output should look like this:
 
 ## S3 Local
 1. Make sure the environment is activated `source .venv/bin/activate`
-2. Execute `python s3_local.py`
+2. Change the group name in the file `s3_local.py` to a valid group name
+3. Execute `python s3_local.py`
 
 The output should look like this:
 ```
